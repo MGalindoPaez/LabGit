@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Nueva Linea agregada desde copia2. 
+=======
+Lorem ipsum dolor si amet, consectetur adipiscing elit. 
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+>>>>>>> feature-1
